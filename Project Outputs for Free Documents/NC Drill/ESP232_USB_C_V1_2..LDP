@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Welcome\OneDrive\Documents\Altium\ESP232_PROJECT\ESP32_USB_C_VER1\ESP232_USB_C_V1_2..PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp232_usb_c_v1_2.-roundholes.txt|DrillLayers=gtl,g1,gp1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp232_usb_c_v1_2.-slotholes.txt|DrillLayers=gtl,g1,gp1,gbl

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=RXD_FTDI Pin=R19-2
+Added Pin To Net: NetName=RXD_FTDI Pin=U2-1
+Added Net: Name=RXD_FTDI
+Added Pin To Net: NetName=TXD_FTDI Pin=R20-2
+Added Pin To Net: NetName=TXD_FTDI Pin=U2-17
+Added Net: Name=TXD_FTDI

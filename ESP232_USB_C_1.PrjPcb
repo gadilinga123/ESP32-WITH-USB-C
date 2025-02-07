@@ -68,57 +68,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=..\ESP32_GIT_FERANEC\esp32-with-usbc-main\ESP32 with USBC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QMXCVKKW
-
-[Document3]
-DocumentPath=..\ESP32_GIT_FERANEC\esp32-with-usbc-main\PcbLib_RF.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=..\ESP32_GIT_FERANEC\esp32-with-usbc-main\Schlib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YJIZXBZQ
-
-[Document5]
 DocumentPath=ESP232_USB_C_V1_2..PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RSJBFYAL
 
-[Document6]
+[Document3]
 DocumentPath=Output_jobfiles\Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document4]
 DocumentPath=ESP232_USB_C_SCH_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPJOPJPO
 
-[Document8]
+[Document5]
 DocumentPath=PcbLib1_1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document6]
 DocumentPath=Schlib1_1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1

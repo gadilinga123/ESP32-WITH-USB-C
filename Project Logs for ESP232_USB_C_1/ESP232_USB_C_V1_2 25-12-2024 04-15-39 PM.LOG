@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=CHIP_PU Pin=J2-3
-Added Pin To Net: NetName=CHIP_PU Pin=Q1-3
-Added Pin To Net: NetName=BTN_GPIO0 Pin=Q2-3
-Added Pin To Net: NetName=CHIP_PU Pin=U1-45
-Added Pin To Net: NetName=GPIO046 Pin=J2-4
-Added Pin To Net: NetName=GPIO046 Pin=U1-44
-Added Net: Name=GPIO046

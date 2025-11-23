@@ -1,3 +1,0 @@
-Added Pin To Net: NetName=DTR_FTDI Pin=U2-18
-Added Pin To Net: NetName=RTS_FTDI Pin=U2-19
-Change Net Color : Old Net Color=Yellow New Net Color=Default
